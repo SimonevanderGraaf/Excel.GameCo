@@ -1,5 +1,5 @@
 # Excel.GameCo
-Until 2016 GameCo has been consistent in dividing their marketing budget over the main three regions: North America, Europe and Japan. The executive board expects that the sales of these regions have not changed over time and therefore thinks there will be no changes in the marketing budget plan for 2017.
+Until 2016 GameCo has been consistent in dividing their marketing budget over the main three regions: North America, Europe and Japan. The executive board expects that the sales of these regions have not changed over time and therefore thinks there will be no changes in the marketing budget plan for 2017.
 As this is only based on an assumption, I will analyze the sales to learn if the market has changed and whether the marketing budget plan needs important changes in order to stay competitive.
 # Key Questions
 - Are certain types of games more popular than others?
